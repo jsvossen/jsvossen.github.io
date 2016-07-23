@@ -1,2 +1,2 @@
-# shasta28.github.io
-Portfolio website
+# Jennifer Hafer-Zdral's portfolio
+See [jennifershasta.com](http://www.jennifershasta.com)
