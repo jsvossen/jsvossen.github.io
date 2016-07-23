@@ -1,0 +1,12 @@
+{
+	"title": "Friends of Wings",
+	"images": ["projects/images/fow.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://friendsofwings.com/"}
+	],
+	"tags":["Drupal","Flash"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Interactive Flash animation</li><li>Flash logo</li><li>Drupal CMS featuring event calendar and photo galleries</li></ul>"
+		}]
+}

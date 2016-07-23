@@ -1,0 +1,23 @@
+{
+	"title": "Aquatechnics",
+	"subtitle":"Interactive Fountain",
+	"images": ["projects/images/aquatech.png","projects/images/aquatech2.jpg","projects/images/aquatech3.png"],
+	"tags":["UX"],
+	"links":[
+		{"text":"Video Sketch","url":"https://vimeo.com/7565655"}
+	],
+	"body": [{
+		"header":"Description",
+		"content":"<p>This was a conceptual project to design a kiosk to enhance a public space in some way. Our design places a kiosk at the SouthSide Works fountain in Pittsburgh, PA, offering control of the fountain's actions, as well as using environmental sensors to respond to people's direct interaction with the fountain itself. This would make the fountain more of a community attraction, encouraging people to gather and interact with each other as well as the fountain.</p>"
+		},
+
+		{
+			"header":"Process",
+			"content":"<ul><li>Observed of how people interacted with various fountain locations and researched other interactive fountains across the country</li><li>Brainstormed ideas and performed needs validation with colleagues and fountain visitors to narrow our list of features</li><li>Created user scenarios and mocked up screen shots to determine the kiosk's functionality</li><li>Illustrated our final solution with a <a href=\"https://vimeo.com/7565655\" target=\"_blank\">video sketch</a></li></ul>"
+		},
+
+		{
+			"header":"Features",
+			"content":"<ul><li>Touch screen interface allows users to draw patterns for the water jets to follow</li><li>Games encourage people to interact with each other and are fun to watch for those who don’t want to get wet</li><li>\"WinAmp\" responds to music to help local bands draw a crowd</li></ul>"
+		}]
+}

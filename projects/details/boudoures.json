@@ -1,0 +1,12 @@
+{
+	"title": "Boudoures",
+	"images": ["projects/images/boudoures.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://sansonegroup.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Responsive layout</li><li>Javascript Slideshow</li><li>Scrolling client logo ticker</li><li>\"Recent Transactions\" popup</li><li>Drupal CMS, featuring property listings with dynamic map, and client portal for document sharing</li></ul>"
+		}]
+}

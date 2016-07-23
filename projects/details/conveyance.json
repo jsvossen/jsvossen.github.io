@@ -1,0 +1,22 @@
+{
+	"title": "Conveyance",
+	"subtitle": "Lunar Rover Planning",
+	"images": ["projects/images/nasa.jpg","projects/images/nasa2.jpg","projects/images/nasa3.jpg"],
+	"tags":["UX"],
+	"links":[
+		{"text":"Video Sketch","url":"https://vimeo.com/5989145"},
+		{"text":"Project Website", "url":"http://www.hcii.cmu.edu/M-HCI/2009/NASA/index.html"}
+	],
+	"body": [{
+		"header":"Description",
+		"content":"<p>Our capstone project, sponsored by the HCI Group of NASA Ames, focused on the challenge of planning lunar rover missions. We designed a tool, Conveyance, to help science teams more easily communicate their data collection goals to the flight team for execution.</p>"
+		},
+		{
+			"header":"Process",
+			"content":"<ul><li>Performed interviews and contextual inquiries to understand how diverse science/engineering teams communicate</li><li>Surveyed related literature about collaborative work environments</li><li>Compared commercial collaboration tools to find common features</li><li>Brainstormed possible solutions, and performed needs validation with potential users</li><li>Performed user testing and iterative design with various levels of prototyping (low-fideltity paper prototypes, mid-fideltiy flash wireframes, final digital prototype)</li><li>Performed operational readiness tests to evaluate our tool in action</li><li>Final \"Landing Day\" scenario allowed us to evaluate the success of our tool in meeting our design goals</li></ul>"
+		},
+		{
+			"header":"Solution",
+			"content":"<ul><li>A walk‐up‐and‐use interface that requires little to no training</li><li>Activities list shows a sequential list of all planned rover activities, and provides a centralized location for adding/removing, waypoints, observations, and rationale</li><li>Toolbar with drag-and-drop waypoints for planning out the rover's path and observations</li><li>Allows the science team accurately represent their data collection goals, and clearly communicate their plan and rationale to the flight team for execution</li></ul>"
+		}]
+}

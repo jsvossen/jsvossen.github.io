@@ -1,0 +1,47 @@
+<section class="project">
+	<div class="container">
+		<article class="row">
+
+			<div class="col-md-12">
+				<h1 class="page-header">
+					{{$ctrl.project.title}}
+					<small ng-show="$ctrl.project.subtitle.length">{{$ctrl.project.subtitle}}</small>
+				</h1>
+			</div>
+
+			<div class="col-md-7 col-sm-6">
+				<img class="img-responsive main-img" ng-src="{{$ctrl.mainImg}}" alt="{{$ctrl.project.title}}" />
+				<div class="thumbnails clearfix" ng-show="$ctrl.project.images.length > 1">
+					<div class="col-md-3 col-sm-4 col-xs-3 tmb" ng-repeat="image in $ctrl.project.images">
+						<img ng-src="{{image}}" class="img-thumbnail" ng-click="$ctrl.swapImage(image)" ng-class="{'active':$ctrl.mainImg == image}"/>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-5 col-sm-6">
+				<ul class="project-links list-inline text-center">
+					<li ng-repeat="link in $ctrl.project.links">
+						<a href="{{link.url}}" class="btn btn-primary" target="_blank">{{link.text}} &raquo;</a>
+					</li>
+				</ul>
+
+				<div class="section" ng-repeat="section in $ctrl.project.body">
+					<h3 ng-show="section.header.length">{{section.header}}:</h3>
+					<div ng-bind-html="section.content"></div>
+				</div>
+				
+				<div class="tags" ng-show="$ctrl.project.tags.length">
+					<hr>
+					<ul class="list-inline">
+						<li><h4>More like this:</h4></li>
+						<li ng-repeat="tag in $ctrl.project.tags">
+							<a href="#!/?tag={{tag}}" class="btn btn-default btn-sm">{{tag}}</a>
+						</li>
+					</ul>
+					<hr>
+				</div>
+			</div>
+
+		</article>
+	</div>
+</section>

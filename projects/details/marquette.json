@@ -1,0 +1,12 @@
+{
+	"title": "Marquette Tool and Die",
+	"images": ["projects/images/marquette.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://marquettetool.com/"}
+	],
+	"tags":["Drupal","Flash"],
+	"body": [{
+		"header":"Description",
+		"content":"<ul><li>Home page Flash banner</li><li>Drupal content management system</li></ul>"
+		}]
+}

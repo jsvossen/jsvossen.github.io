@@ -1,0 +1,12 @@
+{
+	"title": "Classic Car Sales",
+	"images": ["projects/images/classiccars.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://classiccar-sales.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Responsive layout</li><li>Javascript slideshow with synched thumbnail carousel</li><li>\"Featured Car\" popup</li><li>Drupal CMS,&nbsp;includes inventory management and photo galleries</li></ul>"
+		}]
+}

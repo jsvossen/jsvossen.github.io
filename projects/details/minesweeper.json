@@ -1,0 +1,13 @@
+{
+	"title": "JS Minesweeper",
+	"images": ["projects/images/minesweeper.png"],
+	"links":[
+		{"text":"Play Game", "url":"https://rawgit.com/shasta28/js-minesweeper/master/"},
+		{"text":"View GitHub", "url":"https://github.com/shasta28/js-minesweeper"}
+	],
+	"tags":["Javascript","Games"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>The classic game Minesweeper, built with jQuery.</p>"
+		}]
+}

@@ -1,0 +1,11 @@
+{
+	"title": "SMAHE",
+	"images": ["projects/images/smahe.jpg"],
+	"tags":["Drupal","Graphic Design"],
+	"body": [
+		{"content":"<p><em>In development -- link coming soon!</em></p>"},
+		{
+			"header":"Features",
+			"content":"<ul><li>Custom design</li><li>Responsive layout</li><li>Drupal CMS with custom learning management system:</li><ul><li>Student portal with weekly lecture list, class calendar, and transcript</li><li>Supervisor portal for submitting student term evaluations and proficiency tests</li><li>Administrator configures calandar/course list, manages users, approves student application, submits grades, and reviews evaluations</li></ul></ul>"
+		}]
+}

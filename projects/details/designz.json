@@ -1,0 +1,12 @@
+{
+	"title": "Designz by Wendy",
+	"images": ["projects/images/designz.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://designzbywendy.com/"}
+	],
+	"tags":["Drupal","Javascript","Graphic Design"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Custom design</li><li>Responsive layout</li><li>Javascript slideshow</li><li>Drupal CMS, featuring product management system and photo galleries</li></ul>"
+		}]
+}

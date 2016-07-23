@@ -1,0 +1,14 @@
+{
+	"title": "Clash",
+	"subtitle":"a real-time board game",
+	"images": ["projects/images/clash.jpg"],
+	"tags":["Games"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>The goal of this project was to create a simple, straightforward game that captures the competitiveness and adrenalin rush that is usually only found in video games.</p><p>The result is <em>Clash</em>. It is a real-time board game, which means there are no turns. Indeed, even pausing too long to think of your next move can be dangerous.</p><p>After the initial design, the game went through a rigorous play testing process. Both the board layout and pawn design evolved a great deal through observing play sessions, and the goals were revised and tweaked to ensure balanced play.</p>"
+		},
+		{
+			"header":"Gameplay",
+			"content":"<ul><li>Move your army, one space and one piece at a time, to fulfill your goal before your opponent</li><li>Choose to compete for the same goal or to have a secret goal</li><li>Six goal cards make each game different</li><li>Takes minutes to learn, but is a challenge to master</li></ul>"
+		}]
+}

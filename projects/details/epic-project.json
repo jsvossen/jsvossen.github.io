@@ -1,0 +1,12 @@
+{
+	"title": "EPiC Project",
+	"images": ["projects/images/epic-site.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://epic-project.org/"}
+	],
+	"tags":["Drupal","Graphic Design"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Custom design</li><li>Custom logo</li><li>Responsive layout</li><li>Drupal CMS featuring news and events calendar</li></ul>"
+		}]
+}

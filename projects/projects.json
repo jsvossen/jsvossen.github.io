@@ -1,0 +1,259 @@
+{
+	"cats" : [
+		"Drupal",
+		"Ruby",
+		"Javascript",
+		"Flash",
+		"Graphic Design",
+		"UX",
+		"Games",
+		"Photoshop" 
+	],
+	"projects": [
+		{
+			"id":"janson",
+			"name": "Just Another Social Network",
+			"image": "projects/thumbs/janson.jpg",
+			"tags": ["Ruby"]
+		},
+
+		{
+			"id":"breve-coffee",
+			"name": "Breve Coffee",
+			"image": "projects/thumbs/breve.jpg",
+			"tags": ["Drupal","HTML/CSS","Javascript"]
+		},
+
+		{
+			"id":"competibid",
+			"name": "CompetiBid",
+			"image": "projects/thumbs/competibid.jpg",
+			"tags": ["Drupal","HTML/CSS","Javascript"]
+		},
+
+		{
+			"id":"smahe",
+			"name": "SMAHE",
+			"image": "projects/thumbs/smahe.jpg",
+			"tags": ["Drupal","HTML/CSS","Graphic Design"]
+		},
+
+		{
+			"id":"ewh",
+			"name": "EyeWearHaus",
+			"image": "projects/thumbs/ewh.jpg",
+			"tags": ["HTML/CSS","Drupal","Javascript"]
+		},
+
+		{
+			"id":"maris",
+			"name": "MARIS",
+			"image": "projects/thumbs/maris.jpg",
+			"tags": ["HTML/CSS","Drupal","Javascript"]
+		},
+
+
+		{
+			"id":"fow",
+			"name": "Friends of Wings",
+			"image": "projects/thumbs/fow.jpg",
+			"tags": ["Drupal","HTML/CSS","Flash"]
+		},
+
+		{
+			"id":"conveyance",
+			"name": "Conveyance: Lunar Rover Planning",
+			"image": "projects/thumbs/nasa-tmb.jpg",
+			"tags": ["UX"]
+		},
+
+		{
+			"id":"ruby-chess",
+			"name": "Ruby Chess",
+			"image": "projects/thumbs/chess.jpg",
+			"tags": ["Ruby","Games"]
+		},
+
+		{
+			"id":"classic-cars",
+			"name": "Classic Car Sales",
+			"image": "projects/thumbs/classiccars.jpg",
+			"tags": ["Drupal","HTML/CSS","Javascript"]
+		},
+
+		{
+			"id":"usa-orth",
+			"name": "USA Orthotics",
+			"image": "projects/thumbs/usaorthotics.jpg",
+			"tags": ["Drupal","HTML/CSS","Javascript"]
+		},
+
+		{
+			"id":"sansone",
+			"name": "Sansone Group",
+			"image": "projects/thumbs/sansone.jpg",
+			"tags": ["Drupal","HTML/CSS","Flash"]
+		},
+
+		{
+			"id":"missile-command",
+			"name": "Missile Command",
+			"image": "projects/thumbs/missilecmd.jpg",
+			"tags": ["Javascript","Games"]
+		},
+
+		{
+			"id":"get-it-board",
+			"name": "Get-it-Board: Collabrative Shopping",
+			"image": "projects/thumbs/get-it-board.jpg",
+			"tags": ["UX"]
+		},
+
+		{
+			"id":"boudoures",
+			"name": "Boudoures",
+			"image": "projects/thumbs/boudoures.jpg",
+			"tags": ["Drupal","HTML/CSS","Javascript"]
+		},
+
+		{
+			"id":"bba",
+			"name": "Brilliant Beginnings Academy",
+			"image": "projects/thumbs/bba.jpg",
+			"tags": ["Drupal","HTML/CSS","Javascript"]
+		},
+
+		{
+			"id":"schooners",
+			"name": "Schooners Wharf",
+			"image": "projects/thumbs/schoon.jpg",
+			"tags": ["HTML/CSS","Drupal","Javascript"]
+		},
+
+		{
+			"id":"waldo",
+			"name": "Where's Waldo",
+			"image": "projects/thumbs/waldo.jpg",
+			"tags": ["Ruby","Javascript","Games"]
+		},
+
+		{
+			"id":"cooper-color",
+			"name": "Cooper Color",
+			"image": "projects/thumbs/cooper.jpg",
+			"tags": ["HTML/CSS","Flash","Drupal"]
+		},
+
+		{
+			"id":"designz",
+			"name": "Designz by Wendy",
+			"image": "projects/thumbs/designz.jpg",
+			"tags": ["Drupal","HTML/CSS","Graphic Design"]
+		},
+
+		{
+			"id":"marquette",
+			"name": "Marquette Tool and Die",
+			"image": "projects/thumbs/marquette.jpg",
+			"tags": ["HTML/CSS","Flash","Drupal"]
+		},
+
+		{
+			"id":"eventlite",
+			"name": "EventLite",
+			"image": "projects/thumbs/eventlite.jpg",
+			"tags": ["Ruby"]
+		},
+
+		{
+			"id":"minesweeper",
+			"name": "JS Minesweeper",
+			"image": "projects/thumbs/minesweeper-tmb.jpg",
+			"tags": ["Javascript", "Games"]
+		},
+
+		{
+			"id":"js-snake",
+			"name": "JS Snake",
+			"image": "projects/thumbs/snake.jpg",
+			"tags": ["Javascript","Games"]
+		},
+
+		{
+			"id":"redwood",
+			"name": "Redwood Systems Group",
+			"image": "projects/thumbs/redwood.jpg",
+			"tags": ["Javascript"]
+		},
+
+		{
+			"id":"epic-project",
+			"name": "EPiC Project",
+			"image": "projects/thumbs/epic-site.jpg",
+			"tags": ["HTML/CSS","Drupal","Graphic Design"]
+		},
+
+		{
+			"id":"wedding-invite",
+			"name": "Wedding Invitation",
+			"image": "projects/thumbs/invitation-sample.jpg",
+			"tags": ["Graphic Design"]
+		},
+
+		{
+			"id":"slacrr",
+			"name": "SLACRR",
+			"image": "projects/thumbs/slacrr.jpg",
+			"tags": ["HTML/CSS","Graphic Design"]
+		},
+
+		{
+			"id":"global-links",
+			"name": "Global Links",
+			"image": "projects/thumbs/globallinks.jpg",
+			"tags": ["Graphic Design"]
+		},
+
+		{
+			"id":"stream",
+			"name": "Stream",
+			"image": "projects/thumbs/stream.jpg",
+			"tags": ["Photoshop"]
+		},
+
+		{
+			"id":"balloon-animal",
+			"name": "Balloon Animal",
+			"image": "projects/thumbs/balloonsquirrel.jpg",
+			"tags": ["Photoshop"]
+		},
+
+		{
+			"id":"pumpkin-critter",
+			"name": "Pumpkin Critter",
+			"image": "projects/thumbs/fuzzypumpkin.jpg",
+			"tags": ["Photoshop"]
+		},
+
+		{
+			"id":"aquatech",
+			"name": "Aquatechnics: Interactive Fountain",
+			"image": "projects/thumbs/aquatech.jpg",
+			"tags": ["UX"]
+		},
+
+		{
+			"id":"silvastories",
+			"name": "SlivaStories",
+			"image": "projects/thumbs/silvastories.jpg",
+			"tags": ["UX"]
+		},
+
+		{
+			"id":"clash-game",
+			"name": "Clash: a real-time board game",
+			"image": "projects/thumbs/clash.jpg",
+			"tags": ["Games"]
+		}
+	]
+}

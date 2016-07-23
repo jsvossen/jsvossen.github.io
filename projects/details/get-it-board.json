@@ -1,0 +1,18 @@
+{
+	"title": "Get-It-Board",
+	"subtitle": "Collaborative Shopping",
+	"images": ["projects/images/get-it-board.png","projects/images/get-it-board2.png","projects/images/get-it-board3.png","projects/images/get-it-board4.png"],
+	"tags":["UX"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>This was a conceptual project to design a web application that captures the social interaction that is present in face-to-face collaborative shopping. We began by evaluating existing methods, such as Craigslist and eBay, to understand why they did not support collaborative shopping effectively and where we could make improvements.</p>"
+	},
+	{
+		"header":"Methods",
+		"content":"<ul><li>Contextual inquiry</li><li>Heuristic evalutation</li><li>Keyboard level modeling</li><li>Think-alouds</li><li>Brainstorming and visioning sessions</li></ul>"
+	},
+	{
+		"header":"Solution",
+		"content":"<ul><li>A virtual \"whiteboard space\" to collect and items from various locations (Craigslist, eBay, etc)</li><li>User indicates their preference for an item by dragging \"magnets\" left or right across the board (right if the item is desirable, left if not)</li><li>User can include a comment about why they moved the item</li><li>Board tracks the movement of each item, and the complete path of an item represents the group's discussion and level of consensus.</li><li>Comments allow for a natural conversation as the group discusses the merits of each option</li></ul>"
+		}]
+}

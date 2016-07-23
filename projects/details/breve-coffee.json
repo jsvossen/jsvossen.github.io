@@ -1,0 +1,12 @@
+{
+	"title": "Breve Coffee",
+	"images": ["projects/images/breve.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"https://brevecoffee.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header": "Features",
+		"content": "<ul><li>Javascript slideshow</li><li>Responsive layout</li><li>Drupal CMS with:</li><ul><li>Blog</li><li>Product management</li><li>Product ratings and comments</li><li>Online purchasing</li><li>User order history</li></ul></ul>"
+		}]
+}

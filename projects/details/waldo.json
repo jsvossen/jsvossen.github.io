@@ -1,0 +1,13 @@
+{
+	"title": "Where's Waldo",
+	"images": ["projects/images/waldo2.jpg"],
+	"links":[
+		{"text":"Play Game", "url":"https://wheres-waldo-95742.herokuapp.com/"},
+		{"text":"View GitHub", "url":"https://github.com/shasta28/wheres-waldo"}
+	],
+	"tags":["Ruby","Javascript","Games"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>An image tagging game built with Ruby on Rails and Ajax.</p>"
+	}]
+}

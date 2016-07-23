@@ -1,0 +1,12 @@
+{
+	"title": "Cooper Color",
+	"images": ["projects/images/cooper.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://coopercolor.com/"}
+	],
+	"tags":["Drupal","Flash"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Flash animation which include painting effects and sound effects</li><li>Responsive layout</li><li>Drupal CMS featuring blog and media gallery</li></ul>"
+		}]
+}

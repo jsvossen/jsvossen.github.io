@@ -1,0 +1,12 @@
+{
+	"title": "MARIS",
+	"images": ["projects/images/maris.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://marisnet.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Responsive layout</li><li>Javascript slideshow</li><li>Drupal CMS featuring:<ul><li>Training calendar</li><li>Course registration system</li><li>Course management system with enrollment caps,  attendee lists, and wait lists</li><li>Blog</li></ul></li></ul>"
+		}]
+}

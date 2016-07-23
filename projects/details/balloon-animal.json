@@ -1,0 +1,9 @@
+{
+	"title": "Balloon Animal",
+	"images": ["projects/images/balloonsquirrel.jpg"],
+	"tags":["Photoshop"],
+	"body": [{ 
+			"header":"Description",
+			"content":"<p>A photo manipulation piece that won second place in Worth1000's \"Animal Clowns 9\" contest.</p>" 
+	}]
+}

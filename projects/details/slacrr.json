@@ -1,0 +1,12 @@
+{
+	"title": "SLACRR",
+	"images": ["projects/images/slacrr.jpg"],
+	"tags":["Graphic Design"],
+	"links":[
+		{"text":"Visit Site", "url":"http://umsl.edu/~slacrr/"}
+	],
+	"body": [{
+		"header":"Description",
+		"content":"<p>The SLACRR website is the face of the St. Louis Annual Conference on Reasons & Rationality, developed for the Philosophy Department at the University of Missouri, St. Louis. In addition to designing and building the site, I contributed some of my photography, and designed a poster advertising the conference.</p>"
+		}]
+}

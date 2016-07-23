@@ -1,0 +1,31 @@
+<hr class="intro-divider">
+<div class="filter text-center">
+    <ul class="list-inline">
+        <li ng-repeat="cat in $ctrl.portfolio.cats">
+        	<button type="button" class="btn"
+        			ng-click="$ctrl.toggleTag(cat)"
+        			ng-class="{'btn-primary': $ctrl.tag == cat, 'btn-link': $ctrl.tag != cat}">
+        		<span class="cat">{{cat}}</span><span class="ex" ng-show="$ctrl.tag == cat">&times;</span>
+        	</button>
+        </li>
+    </ul>
+</div>
+<hr class="intro-divider">
+
+<div class="col-md-3 col-sm-4 portfolio-item" 
+     ng-repeat="project in (filtered = ($ctrl.portfolio.projects | hasTag:$ctrl.tag)) | limitTo:$ctrl.showLimit" >
+  <div class="fill">
+    <a href="#!/project/{{project.id}}">
+      <img class="img-responsive" ng-src="{{project.image}}" alt="{{project.name}}">
+    </a>
+  </div>
+  <p><a href="#!/project/{{project.id}}">{{project.name}}</a></p>
+</div>
+
+<div class="clearfix"></div>
+<p class="text-center">
+  <button class="btn btn-default" 
+              ng-show="filtered.length > $ctrl.showLimit"
+              ng-click="$ctrl.showAll(filtered.length)">
+              Show All ({{filtered.length}})
+  </button>

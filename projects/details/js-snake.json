@@ -1,0 +1,13 @@
+{
+	"title": "JS Snake",
+	"images": ["projects/images/snake.png"],
+	"links":[
+		{"text":"Play Game", "url":"https://rawgit.com/shasta28/js-snake/master/"},
+		{"text":"View GitHub", "url":"https://github.com/shasta28/js-snake"}
+	],
+	"tags":["Javascript","Games"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>The classic game Snake, built with jQuery.</p>"
+		}]
+}

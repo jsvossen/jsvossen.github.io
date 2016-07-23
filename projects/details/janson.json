@@ -1,0 +1,21 @@
+{
+	"title": "Just Another Social Network",
+	"images": ["projects/images/janson.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"https://janson-91841.herokuapp.com/"},
+		{"text":"View GitHub", "url":"https://github.com/shasta28/janson"}
+	],
+	"tags":["Ruby"],
+	"body": [
+
+			{
+				"header":"Description",
+				"content": "<p>JAnSoN is a project in Ruby on Rails featuring the core functionality of Facebook.</p><p>Create your own account or log in as the demo user to try it out (email: <code>ex@example.com</code>, password: <code>password</code>).</p>"
+			},
+
+			{
+				"header": "Features",
+				"content":"<ul><li>Friend other users</li><li>Text/photo posts with commenting</li><li>\"Like\" posts and comments</li><li>Notifications for friend requests, likes, and comments</ul>"
+			}
+		]
+}

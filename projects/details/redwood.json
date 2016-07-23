@@ -1,0 +1,12 @@
+{
+	"title": "Redwood Systems Group",
+	"images": ["projects/images/redwood.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://redwoodsystemsgroup.com/"}
+	],
+	"tags":["Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Custom javascript animation with responsive layout</li><li>Ajax form submissions</li></ul>"
+		}]
+}

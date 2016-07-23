@@ -1,0 +1,12 @@
+{
+	"title": "EyeWearHaus",
+	"images": ["projects/images/ewh.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://eyewearhaus.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Responsive layout</li><li>Javascript slideshows</li><li>Logo ticker with featured image tooltip</li><li>Specials/promotions popout</li><li>One-time popup inviting the user to \"Like\" on Facebook</li><li>Drupal CMS, includes brand/inventory management, blog, and ad gallery</li></ul>"
+		}]
+}

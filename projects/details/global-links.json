@@ -1,0 +1,9 @@
+{
+	"title": "Global Links",
+	"images": ["projects/images/globallinks.jpg"],
+	"tags":["Graphic Design"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>The Global Links poster is a project in storytelling. Designed to be an 11x17 poster, it tells the story of the non-profit company Global Links and their achievements in supplying surplus medical equipment to third-world hospitals.</p>"
+		}]
+}

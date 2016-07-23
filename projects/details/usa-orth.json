@@ -1,0 +1,12 @@
+{
+	"title": "USA Orthotics",
+	"images": ["projects/images/usaorthotics.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://usaorthotics.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Javascript Slideshow with custom effects</li><li>Drupal CMS featuring: <ul><li>Blog</li><li>Product Management</li><li>Online purchasing</li></ul></li></ul>"
+		}]
+}

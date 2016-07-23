@@ -1,0 +1,9 @@
+{
+	"title": "Wedding Invitation",
+	"images": ["projects/images/invitation-sample.jpg"],
+	"tags":["Graphic Design"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>This is an invitation designed for vineyard wedding with the colors hunter green, ivory and gold.  The invitations were printed on cream card-stock for a classic, elegant look.</p>"
+	}]
+}

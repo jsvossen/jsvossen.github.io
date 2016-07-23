@@ -1,0 +1,12 @@
+{
+	"title": "Competibid",
+	"images": ["projects/images/competibid.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://www.competibid.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>CSS3 multicolored backgrounds</li><li>Responsive layout</li><li>Javascript slideshow</li><li>FAQ accordion</li><li>Drupal CMS, featuring news ticker and blog</li></ul>"
+		}]
+}

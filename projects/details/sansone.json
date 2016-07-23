@@ -1,0 +1,12 @@
+{
+	"title": "Sansone Group",
+	"images": ["projects/images/sansone.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://sansonegroup.com/"}
+	],
+	"tags":["Drupal","Flash"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Home page flash banner</li><li>Responsive layout</li><li>Drupal CMS, featuring property listings with dynamic map, and client portal for document sharing</li></ul>"
+	}]
+}

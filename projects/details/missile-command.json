@@ -1,0 +1,17 @@
+{
+	"title": "Missile Command",
+	"images": ["projects/images/missilecmd.jpg"],
+	"links":[
+		{"text":"Play Game", "url":"https://rawgit.com/shasta28/missile-cmd/master/"},
+		{"text":"View GitHub", "url":"https://github.com/shasta28/missile-cmd"}
+	],
+	"tags":["Javascript","Games"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>The arcade game Missile Command, built with HTML5 Canvas and jQuery.</p>"
+		},
+		{
+			"header":"Features",
+			"content":"<ul><li>Levels and scorekeeping</li><li>Difficulty increases each level</li></ul>"
+		}]
+}

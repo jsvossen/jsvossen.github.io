@@ -1,0 +1,17 @@
+{
+	"title": "Ruby Chess",
+	"images": ["projects/images/chess.png"],
+	"links":[
+		{"text":"View GitHub", "url":"https://github.com/shasta28/ruby-chess"}
+	],
+	"tags":["Ruby","Games"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>A two player command-line chess program built in Ruby.</p>"
+		},
+
+		{
+			"header":"Features",
+			"content":"<ul><li>Validates move legality</li><li>Checks for check, checkmate, and stalemate conditions</li><li>Save and load games</li><li>Unicode symbols for chess pieces</li><li>\"Safe mode\" board output if background colors are not supported</li></ul>"
+		}]
+}

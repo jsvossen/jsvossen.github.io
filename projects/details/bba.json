@@ -1,0 +1,12 @@
+{
+	"title": "Brilliant Beginnings Academy",
+	"images": ["projects/images/bba.jpg"],
+	"links":[
+		{"text":"Visit Site", "url":"http://brilliantbeginningsacademy.com/"}
+	],
+	"tags":["Drupal","Javascript"],
+	"body": [{
+		"header":"Features",
+		"content":"<ul><li>Responsive layout</li><li>Javascript slideshow</li><li>FAQ accordion</li><li>Drupal CMS</li></ul>"
+		}]
+}

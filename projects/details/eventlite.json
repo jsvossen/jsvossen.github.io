@@ -1,0 +1,17 @@
+{
+	"title": "EventLite",
+	"images": ["projects/images/eventlite.png"],
+	"links":[
+		{"text":"Visit Site", "url":"https://eventlite-28189.herokuapp.com/"},
+		{"text":"View GitHub", "url":"https://github.com/shasta28/event-lite"}
+	],
+	"tags":["Ruby"],
+	"body": [{
+		"header":"Description",
+		"content":"<p>This is a demo app for managing events, built in Ruby on Rails.</p><p>Create an account with a dummy email address, or log in as one of the sample users to try it out.</p>"
+		},
+		{
+			"header":"Features",
+			"content":"<ul><li>Create events and flag as either public or private</li><li>Join public events</li><li>Invite users to private events</li><li>View upcoming and past events</li></ul>"
+		}]
+}
