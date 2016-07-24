@@ -5,7 +5,7 @@
 		{"text":"Visit Site", "url":"https://janson-91841.herokuapp.com/"},
 		{"text":"View GitHub", "url":"https://github.com/shasta28/janson"}
 	],
-	"tags":["Ruby"],
+	"tags":["Ruby","Javascript"],
 	"body": [
 
 			{
@@ -15,7 +15,7 @@
 
 			{
 				"header": "Features",
-				"content":"<ul><li>Friend other users</li><li>Text/photo posts with commenting</li><li>\"Like\" posts and comments</li><li>Notifications for friend requests, likes, and comments</ul>"
+				"content":"<ul><li>Friend other users</li><li>Text/photo posts with commenting</li><li>\"Like\" posts and add comments with Ajax</li><li>Notifications for friend requests, likes, and comments</ul>"
 			}
 		]
 }

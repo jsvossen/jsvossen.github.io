@@ -1,6 +1,9 @@
 {
 	"title": "Global Links",
 	"images": ["projects/images/globallinks.jpg"],
+	"links":[
+		{"text":"View PDF", "url":"projects/images/globallinks.pdf"}
+	],
 	"tags":["Graphic Design"],
 	"body": [{
 		"header":"Description",
