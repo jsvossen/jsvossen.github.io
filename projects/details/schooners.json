@@ -4,7 +4,7 @@
 	"links":[
 		{"text":"Visit Site", "url":"http://schoonerswharf.com/"}
 	],
-	"tags":["Drupal","Javascript"],
+	"tags":["Drupal"],
 	"body": [{
 		"header":"Features",
 		"content":"<ul><li>Responsive layout</li><li>Javascript slideshow</li><li>Drupal CMS, optimized for managing restaurant menu.</li></ul>"

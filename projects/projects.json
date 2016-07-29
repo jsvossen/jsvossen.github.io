@@ -120,14 +120,14 @@
 			"id":"bba",
 			"name": "Brilliant Beginnings Academy",
 			"image": "projects/thumbs/bba.jpg",
-			"tags": ["Drupal","HTML/CSS","Javascript"]
+			"tags": ["Drupal","HTML/CSS"]
 		},
 
 		{
 			"id":"schooners",
 			"name": "Schooners Wharf",
 			"image": "projects/thumbs/schoon.jpg",
-			"tags": ["HTML/CSS","Drupal","Javascript"]
+			"tags": ["HTML/CSS","Drupal"]
 		},
 
 		{
