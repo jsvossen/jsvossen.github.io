@@ -1,5 +1,5 @@
-# Jennifer Hafer-Zdral's portfolio
-See [jennifershasta.com](http://www.jennifershasta.com)
+# Jennifer Vossen's portfolio
+See [jennifervossen.com](http://www.jennifervossen.com)
 
 Built with Bootstrap and AngularJS. 
 
