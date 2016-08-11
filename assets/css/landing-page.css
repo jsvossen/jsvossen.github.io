@@ -304,5 +304,5 @@ p.copyright {
 }
 
 @media(max-width:320px) {
-	#contact iframe { max-width: 300px !important; }
+	#contact iframe { width: 290px !important; }
 }
