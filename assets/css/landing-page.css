@@ -302,3 +302,7 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+@media(max-width:320px) {
+	#contact iframe { max-width: 300px !important; }
+}
