@@ -207,6 +207,7 @@ img.main-img {
     }
 
     .fill { height: auto; }
+    .fill img { min-height: 0; }
 
     .portfolio-item { max-width: 400px; margin-left: auto; margin-right: auto; }
 }
