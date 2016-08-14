@@ -3,7 +3,7 @@
 	"images": ["projects/images/janson.jpg"],
 	"links":[
 		{"text":"Visit Site", "url":"https://janson-91841.herokuapp.com/"},
-		{"text":"View GitHub", "url":"https://github.com/shasta28/janson"}
+		{"text":"View GitHub", "url":"https://github.com/jsvossen/janson"}
 	],
 	"tags":["Ruby","Javascript"],
 	"body": [

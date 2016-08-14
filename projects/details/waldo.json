@@ -3,7 +3,7 @@
 	"images": ["projects/images/waldo2.jpg"],
 	"links":[
 		{"text":"Play Game", "url":"https://wheres-waldo-95742.herokuapp.com/"},
-		{"text":"View GitHub", "url":"https://github.com/shasta28/wheres-waldo"}
+		{"text":"View GitHub", "url":"https://github.com/jsvossen/wheres-waldo"}
 	],
 	"tags":["Ruby","Javascript","Games"],
 	"body": [{

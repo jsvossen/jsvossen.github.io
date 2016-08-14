@@ -2,7 +2,7 @@
 	"title": "Ruby Chess",
 	"images": ["projects/images/chess.png"],
 	"links":[
-		{"text":"View GitHub", "url":"https://github.com/shasta28/ruby-chess"}
+		{"text":"View GitHub", "url":"https://github.com/jsvossen/ruby-chess"}
 	],
 	"tags":["Ruby","Games"],
 	"body": [{

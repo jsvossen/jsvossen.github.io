@@ -2,8 +2,8 @@
 	"title": "Missile Command",
 	"images": ["projects/images/missilecmd.jpg"],
 	"links":[
-		{"text":"Play Game", "url":"https://rawgit.com/shasta28/missile-cmd/master/"},
-		{"text":"View GitHub", "url":"https://github.com/shasta28/missile-cmd"}
+		{"text":"Play Game", "url":"https://rawgit.com/jsvossen/missile-cmd/master/"},
+		{"text":"View GitHub", "url":"https://github.com/jsvossen/missile-cmd"}
 	],
 	"tags":["Javascript","Games"],
 	"body": [{

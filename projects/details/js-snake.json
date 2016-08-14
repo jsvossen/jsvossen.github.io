@@ -2,8 +2,8 @@
 	"title": "JS Snake",
 	"images": ["projects/images/snake.png"],
 	"links":[
-		{"text":"Play Game", "url":"https://rawgit.com/shasta28/js-snake/master/"},
-		{"text":"View GitHub", "url":"https://github.com/shasta28/js-snake"}
+		{"text":"Play Game", "url":"https://rawgit.com/jsvossen/js-snake/master/"},
+		{"text":"View GitHub", "url":"https://github.com/jsvossen/js-snake"}
 	],
 	"tags":["Javascript","Games"],
 	"body": [{

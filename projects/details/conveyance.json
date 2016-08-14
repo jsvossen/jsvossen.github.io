@@ -17,6 +17,6 @@
 		},
 		{
 			"header":"Solution",
-			"content":"<ul><li>A walk‐up‐and‐use interface that requires little to no training</li><li>Activities list shows a sequential list of all planned rover activities, and provides a centralized location for adding/removing, waypoints, observations, and rationale</li><li>Toolbar with drag-and-drop waypoints for planning out the rover's path and observations</li><li>Allows the science team accurately represent their data collection goals, and clearly communicate their plan and rationale to the flight team for execution</li></ul>"
+			"content":"<ul><li>A walk‐up‐and‐use interface that requires little to no training</li><li>Activities list shows a sequential list of all planned rover activities, and provides a centralized location for adding/removing, waypoints, observations, and rationale</li><li>Toolbar with drag-and-drop waypoints for planning out the rover's path and observations</li><li>Allows the science team to accurately represent their data collection goals, and clearly communicate their plan and rationale to the flight team for execution</li></ul>"
 		}]
 }

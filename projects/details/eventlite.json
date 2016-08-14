@@ -3,7 +3,7 @@
 	"images": ["projects/images/eventlite.png"],
 	"links":[
 		{"text":"Visit Site", "url":"https://eventlite-28189.herokuapp.com/"},
-		{"text":"View GitHub", "url":"https://github.com/shasta28/event-lite"}
+		{"text":"View GitHub", "url":"https://github.com/jsvossen/event-lite"}
 	],
 	"tags":["Ruby"],
 	"body": [{
